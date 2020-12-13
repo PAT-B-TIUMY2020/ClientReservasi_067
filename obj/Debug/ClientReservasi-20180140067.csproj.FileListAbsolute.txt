@@ -8,3 +8,5 @@ D:\Visual Studio 2017\Projects\ClientReservasi-20180140067\obj\Debug\ClientReser
 D:\Visual Studio 2017\Projects\ClientReservasi-20180140067\obj\Debug\ClientReservasi-20180140067.csproj.CoreCompileInputs.cache
 D:\Visual Studio 2017\Projects\ClientReservasi-20180140067\obj\Debug\ClientReservasi-20180140067.exe
 D:\Visual Studio 2017\Projects\ClientReservasi-20180140067\obj\Debug\ClientReservasi-20180140067.pdb
+D:\Visual Studio 2017\Projects\ClientReservasi-20180140067\obj\Debug\ClientReservasi_20180140067.Login.resources
+D:\Visual Studio 2017\Projects\ClientReservasi-20180140067\obj\Debug\ClientReservasi_20180140067.Register.resources
